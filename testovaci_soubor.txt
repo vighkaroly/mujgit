@@ -1,1 +1,4 @@
 Text přidaný do testovacího souboru
+123456789
+987654321
+000000000
